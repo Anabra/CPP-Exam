@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1463319309 source:c:\elte\ii. félév\c++\vizsga\uv\uv\main.cpp
+	<numeric>
+	<iostream>
+	<functional>
+	"unsvec.h"
+	<string>
+	"unsvec.h"
+	<algorithm>
+
+1463341658 c:\elte\ii. félév\c++\vizsga\uv\uv\unsvec.h
+	<vector>
+	<algorithm>
+	<iterator>
+	<functional>
+

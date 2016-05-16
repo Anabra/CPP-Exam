@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1463339235 source:c:\elte\ii. félév\c++\vizsga\mapu\map_util\main.cpp
+	<map>
+	<algorithm>
+	<iostream>
+	"maputil.h"
+	<string>
+	"maputil.h"
+
+1463339972 c:\elte\ii. félév\c++\vizsga\mapu\map_util\maputil.h
+	<map>
+	<iterator>
+	<algorithm>
+	<functional>
+

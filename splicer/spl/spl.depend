@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1463257552 source:c:\elte\ii. félév\c++\beadandó\spl\main.cpp
+	<iostream>
+	<deque>
+	<string>
+	"splicer.h"
+	<list>
+	"splicer.h"
+	<vector>
+	<set>
+	<algorithm>
+	<iterator>
+
+1463257863 c:\elte\ii. félév\c++\beadandó\spl\splicer.h
+	<vector>
+	<algorithm>
+
+1463257552 source:c:\elte\ii. félév\c++\vizsga\spl\main.cpp
+	<iostream>
+	<deque>
+	<string>
+	"splicer.h"
+	<list>
+	"splicer.h"
+	<vector>
+	<set>
+	<algorithm>
+	<iterator>
+
+1463257863 c:\elte\ii. félév\c++\vizsga\spl\splicer.h
+	<vector>
+	<algorithm>
+
