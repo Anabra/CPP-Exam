@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1463675164 source:c:\elte\ii. félév\c++\vizsga\fullfv\fullfv\main.cpp
+	<iostream>
+	<set>
+	"ffvec.h"
+	<vector>
+	<cstring>
+	"ffvec.h"
+	<string>
+
+1463675394 c:\elte\ii. félév\c++\vizsga\fullfv\fullfv\ffvec.h
+	<vector>
+	<algorithm>
+	<iterator>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1463656632 source:c:\elte\ii. félév\c++\vizsga\si\string_impl\main.cpp
+	<iostream>
+	<deque>
+	<string>
+	"stringimpl.h"
+	<list>
+	<vector>
+	"stringimpl.h"
+	<iterator>
+
+1463656598 c:\elte\ii. félév\c++\vizsga\si\string_impl\stringimpl.h
+	<algorithm>
+
