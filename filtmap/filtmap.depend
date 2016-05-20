@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1463765185 source:c:\elte\ii. félév\c++\vizsga\filtmap\main.cpp
+	<iostream>
+	"filtmap.h"
+	<string>
+	<algorithm>
+	"filtmap.h"
+	<map>
+	<functional>
+
+1463775042 c:\elte\ii. félév\c++\vizsga\filtmap\filtmap.h
+	<map>
+	<algorithm>
+
